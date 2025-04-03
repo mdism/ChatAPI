@@ -1,0 +1,7 @@
+pip install django djangorestframework
+pip install redis django-redis
+pip install django-rest-framework-simplejwt
+
+
+start redis server:
+cmd ==> redis-server
